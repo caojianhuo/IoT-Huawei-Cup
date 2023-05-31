@@ -1,1 +1,4 @@
 https://next.buaa-zlab.space/s/zAm7mjKZwbD2XJn
+
+
+[基于OpenHarmony的家居安防系统-家居安防系统设计](https://www.51cto.com/article/720585.html)
